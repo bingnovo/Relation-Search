@@ -1,4 +1,4 @@
 Relation-Search
 ===============
+Implemented a system that recommends webpages to help users understand wiki content using Python
 
-A webpage rank system to determine the close relationship between two pages
